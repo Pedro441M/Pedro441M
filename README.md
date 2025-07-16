@@ -8,11 +8,7 @@
 
 Sou um estudante de Desenvolvimento de Sistemas que começou essa jornada no início deste ano. Desde então, venho me dedicando bastante aos estudos de **lógica de programação** e **desenvolvimento back-end**, com foco em **Python** 🐍.
 
-Atualmente, me considero em nível **intermediário em Python**, mas sempre buscando evoluir! Tenho interesse em expandir meu conhecimento para outras linguagens e tecnologias como:
-
-- 📘 **JavaScript**
-- 🎨 **HTML**
-- 💅 **CSS**
+Atualmente, me considero em nível **intermediário em Python**, mas sempre buscando evoluir! Tenho interesse em expandir meu conhecimento para outras linguagens e tecnologias!
 
 ---
 
@@ -34,7 +30,6 @@ Em breve, você vai encontrar aqui no GitHub meus projetos pessoais, scripts út
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
