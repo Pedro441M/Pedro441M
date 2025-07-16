@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">👨‍💻 Pedro - Desenvolvedor Backend Python</h1>
 
-<!--
-**Pedro441M/Pedro441M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:005eff&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="banner"/>
+</p>
 
-Here are some ideas to get you started:
+## 👋 Olá, eu sou o Pedro!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um estudante de Desenvolvimento de Sistemas que começou essa jornada no início deste ano. Desde então, venho me dedicando bastante aos estudos de **lógica de programação** e **desenvolvimento back-end**, com foco em **Python** 🐍.
+
+Atualmente, me considero em nível **intermediário em Python**, mas sempre buscando evoluir! Tenho interesse em expandir meu conhecimento para outras linguagens e tecnologias como:
+
+- 📘 **JavaScript**
+- 🎨 **HTML**
+- 💅 **CSS**
+
+---
+
+## 🧠 O que mais curto na programação
+
+Gosto de resolver problemas, construir soluções lógicas e entender o que está acontecendo "por trás" dos sistemas. Meu foco é **backend**, onde posso usar mais **raciocínio lógico**, **estruturas de dados**, **automatizações** e criar projetos que fazem a diferença.
+
+---
+
+## 🚧 Meus projetos
+
+Em breve, você vai encontrar aqui no GitHub meus projetos pessoais, scripts úteis em Python e estudos práticos de back-end. Fique à vontade para acompanhar minha evolução!
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![VS Code](https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+## 🎮 Entra no meu servidor do Discord!
+
+Acabei de criar um servidor focado em linguagens de programação, voltado para quem está começando ou quer evoluir junto na área! Aqui você pode:
+
+Tirar dúvidas e ajudar outras pessoas da comunidade
+
+Compartilhar seus projetos e ideias
+
+Aprender Python, JavaScript, HTML, C++ e muito mais
+
+Fazer networking com outros devs iniciantes e intermediários
+
+👥 Está no começo, então quem quiser contribuir, divulgar ou apenas trocar uma ideia já é super bem-vindo!
+📢 Também estamos precisando de ADM — 
+
+> 🎯 **Link do servidor**: [https://discord.gg/XZCMxKzC](https://discord.gg/XZCMxKzC)
+
+Todo mundo vai ser bem atendido, ambiente da hora pra quem quer crescer junto! 👊🔥
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005eff,100:000000&height=150&section=footer"/>
+</p>
