@@ -53,7 +53,7 @@ Fazer networking com outros devs iniciantes e intermediários
 👥 Está no começo, então quem quiser contribuir, divulgar ou apenas trocar uma ideia já é super bem-vindo!
 📢 Também estamos precisando de ADM — 
 
-> 🎯 **Link do servidor**: [https://discord.gg/XZCMxKzC](https://discord.gg/XZCMxKzC)
+> 🎯 **Link do servidor**: [https://discord.gg/A6tMqyjHsA](https://discord.gg/A6tMqyjHsA)
 
 Todo mundo vai ser bem atendido, ambiente da hora pra quem quer crescer junto! 👊🔥
 
