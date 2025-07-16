@@ -6,7 +6,7 @@
 
 ## 👋 Olá, eu sou o Pedro!
 
-Sou um estudante de Desenvolvimento de Sistemas que começou essa jornada no início deste ano. Desde então, venho me dedicando bastante aos estudos de **lógica de programação** e **desenvolvimento back-end**, com foco em **Python** 🐍.
+Sou um estudante de Desenvolvimento de Sistemas que começou essa jornada no início desse ano de 2025. Desde então, venho me dedicando bastante aos estudos de **lógica de programação** e **desenvolvimento back-end**, com foco em **Python** 🐍.
 
 Atualmente, me considero em nível **intermediário em Python**, mas sempre buscando evoluir! Tenho interesse em expandir meu conhecimento para outras linguagens e tecnologias!
 
@@ -27,23 +27,21 @@ Em breve, você vai encontrar aqui no GitHub meus projetos pessoais, scripts út
 ## ⚙️ Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 
 ---
 
 ## 🎮 Entra no meu servidor do Discord!
 
-Acabei de criar um servidor focado em linguagens de programação, voltado para quem está começando ou quer evoluir junto na área! Aqui você pode:
+Criei um servidor focado em linguagens de programação, voltado para quem está começando ou quer evoluir junto na área! Aqui você pode:
 
 Tirar dúvidas e ajudar outras pessoas da comunidade
 
 Compartilhar seus projetos e ideias
 
-Aprender Python, JavaScript, HTML, C++ e muito mais
+Evoluir juntos!
 
-Fazer networking com outros devs iniciantes e intermediários
+Fazer networking com outros devs
 
 👥 Está no começo, então quem quiser contribuir, divulgar ou apenas trocar uma ideia já é super bem-vindo!
 📢 Também estamos precisando de ADM — 
