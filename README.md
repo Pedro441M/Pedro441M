@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Pedro - Desenvolvedor Backend Python</h1>
+<h1 align="center">👨‍💻 Pedro - Desenvolvedor PYTHON</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:005eff&height=200&section=header&text=Bem-vindo%20ao%20meu%20GitHub!&fontColor=ffffff&fontSize=30&animation=fadeIn" alt="banner"/>
@@ -21,34 +21,6 @@ Gosto de resolver problemas, construir soluções lógicas e entender o que est�
 ## 🚧 Meus projetos
 
 Em breve, você vai encontrar aqui no GitHub meus projetos pessoais, scripts úteis em Python e estudos práticos de back-end. Fique à vontade para acompanhar minha evolução!
-
----
-
-## ⚙️ Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-
----
-
-## 🎮 Entra no meu servidor do Discord!
-
-Criei um servidor focado em linguagens de programação, voltado para quem está começando ou quer evoluir junto na área! Aqui você pode:
-
-Tirar dúvidas e ajudar outras pessoas da comunidade
-
-Compartilhar seus projetos e ideias
-
-Evoluir juntos!
-
-Fazer networking com outros devs
-
-👥 Está no começo, então quem quiser contribuir, divulgar ou apenas trocar uma ideia já é super bem-vindo!
-📢 Também estamos precisando de ADM — 
-
-> 🎯 **Link do servidor**: [https://discord.gg/A6tMqyjHsA](https://discord.gg/A6tMqyjHsA)
-
-Todo mundo vai ser bem atendido, ambiente da hora pra quem quer crescer junto! 👊🔥
 
 ---
 
